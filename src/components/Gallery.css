@@ -1,0 +1,19 @@
+.gallery-nav-button {
+  transition: transform 0.2s ease;
+}
+
+.gallery-nav-button:hover {
+  transform: scale(1.1);
+}
+
+.artwork-image {
+  transition: opacity 0.3s ease;
+}
+
+.artwork-transition {
+  opacity: 0;
+}
+
+.artwork-transition.show {
+  opacity: 1;
+} 
