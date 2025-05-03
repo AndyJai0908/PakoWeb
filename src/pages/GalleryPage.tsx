@@ -16,7 +16,7 @@ const GalleryPage = () => {
     {
       id: 1,
       title: "Dog and Gummy Bear",
-      imageUrl: "/images/IMG_9663.jpg",
+      imageUrl: "/PakoWeb/images/IMG_9663.jpg",
       details: "“Farm” 20x25cm 2024 - Acrylic on canvas",
       year: "2024",
       medium: "Acrylics",
@@ -25,7 +25,7 @@ const GalleryPage = () => {
     {
       id: 2,
       title: "Artwork 2",
-      imageUrl: "/images/IMG_9325.jpg",
+      imageUrl: "/PakoWeb/images/IMG_9325.jpg",
       details: "“Lost Glasses” 60x80cm 2024 - Acrylic on canvas",
       year: "2024",
       medium: "Acrylics",
@@ -34,7 +34,7 @@ const GalleryPage = () => {
     {
       id: 3,
       title: "Artwork 3",
-      imageUrl: "/images/IMG_9661.jpg",
+      imageUrl: "/PakoWeb/images/IMG_9661.jpg",
       details: "“Dawgs” 60x80cm 2024- Acrylic on canvas",
       year: "2024",
       medium: "Acrylics",
@@ -43,7 +43,7 @@ const GalleryPage = () => {
     {
       id: 4,
       title: "Artwork 4",
-      imageUrl: "/images/FullSizeRender.jpg",
+      imageUrl: "/PakoWeb/images/FullSizeRender.jpg",
       details: "“Human Abstraction” 42x30cm 2023 - Ink on paper",
       year: "2023",
       medium: "Ink",
@@ -52,7 +52,7 @@ const GalleryPage = () => {
     {
       id: 5,
       title: "Artwork 5",
-      imageUrl: "/images/d8de0459fcedfa35.jpg",
+      imageUrl: "/PakoWeb/images/d8de0459fcedfa35.jpg",
       details: "“Untitled” 150x180cm 2024 - Ink on paper",
       year: "2024",
       medium: "Ink",
@@ -61,7 +61,7 @@ const GalleryPage = () => {
     {
       id: 6,
       title: "Artwork 6",
-      imageUrl: "/images/IMG_9662.jpg",
+      imageUrl: "/PakoWeb/images/IMG_9662.jpg",
       details: "“Far” 150x180cm 2024 - Acrylic on canvas",
       year: "2024",
       medium: "Acrylics",
@@ -70,7 +70,7 @@ const GalleryPage = () => {
     {
       id: 7,
       title: "Artwork 6",
-      imageUrl: "/images/B32DA9CF-9F97-4397-953E-DD8ACAFA0946.jpg",
+      imageUrl: "/PakoWeb/images/B32DA9CF-9F97-4397-953E-DD8ACAFA0946.jpg",
       details: "“Loved” 50x40cm 2025 - Acrylic on canvas",
       year: "2025",
       medium: "Acrylics",
@@ -79,7 +79,7 @@ const GalleryPage = () => {
     {
       id: 8,
       title: "Artwork 6",
-      imageUrl: "/images/D34615B9-1EDF-4794-BA64-7C1F3007C715.jpg",
+      imageUrl: "/PakoWeb/images/D34615B9-1EDF-4794-BA64-7C1F3007C715.jpg",
       details: "Water White” 20x25cm 2025 - Acrylic on canvas",
       year: "2025",
       medium: "Acrylics",

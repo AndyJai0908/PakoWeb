@@ -16,7 +16,7 @@ const Gallery = () => {
     {
       id: 1,
       title: "Dog and Gummy Bear",
-      imageUrl: "/images/IMG_9663.jpg",
+      imageUrl: "/PakoWeb/images/IMG_9663.jpg",
       details: "Acrylics, Canvas 70x80cm 2024",
       year: "2024",
       medium: "Acrylics",
@@ -25,7 +25,7 @@ const Gallery = () => {
     {
       id: 2,
       title: "Artwork 2",
-      imageUrl: "/images/IMG_9325.jpg",
+      imageUrl: "/PakoWeb/images/IMG_9325.jpg",
       details: "Acrylics, Canvas 70x80cm 2024",
       year: "2024",
       medium: "Acrylics",
@@ -34,7 +34,7 @@ const Gallery = () => {
     {
       id: 3,
       title: "Artwork 3",
-      imageUrl: "/images/IMG_9661.jpg",
+      imageUrl: "/PakoWeb/images/IMG_9661.jpg",
       details: "Acrylics, Canvas 70x80cm 2024",
       year: "2024",
       medium: "Acrylics",
@@ -43,7 +43,7 @@ const Gallery = () => {
     {
       id: 4,
       title: "Artwork 4",
-      imageUrl: "/images/FullSizeRender.jpg",
+      imageUrl: "/PakoWeb/images/FullSizeRender.jpg",
       details: "Acrylics, Canvas 70x80cm 2024",
       year: "2024",
       medium: "Acrylics",
@@ -52,7 +52,7 @@ const Gallery = () => {
     {
       id: 5,
       title: "Artwork 5",
-      imageUrl: "/images/d8de0459fcedfa35.jpg",
+      imageUrl: "/PakoWeb/images/d8de0459fcedfa35.jpg",
       details: "Acrylics, Canvas 70x80cm 2024",
       year: "2024",
       medium: "Acrylics",
@@ -61,7 +61,7 @@ const Gallery = () => {
     {
       id: 6,
       title: "Artwork 6",
-      imageUrl: "/images/IMG_9662.jpg",
+      imageUrl: "/PakoWeb/images/IMG_9662.jpg",
       details: "Acrylics, Canvas 70x80cm 2024",
       year: "2024",
       medium: "Acrylics",

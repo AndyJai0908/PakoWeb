@@ -45,7 +45,7 @@ const About = () => {
             position: 'relative'
           }}>
             <img 
-              src="/elements/selfpic.jpg"
+              src="/PakoWeb/elements/selfpic.jpg"
               alt="Pako Cheung"
               style={{
                 width: '100%',

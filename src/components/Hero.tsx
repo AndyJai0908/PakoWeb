@@ -20,7 +20,7 @@ const Hero = () => {
         marginBottom: theme.spacing.large
       }}>
         <img 
-          src="/elements/sign2.png" 
+          src="/PakoWeb/elements/sign2.png" 
           alt="Pako Cheung Signature"
           style={{
             width: '100%',
